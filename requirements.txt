@@ -1,0 +1,7 @@
+dash
+firebase-admin
+paho-mqtt
+python-dotenv
+plotly
+pandas
+
